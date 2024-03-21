@@ -50,6 +50,7 @@ If you are interested, I publish that content on my YouTube channel "[Estação 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/0a089b91-cfd8-4f01-bf0f-b47239e87025 "Microsoft Certified: Azure Fundamentals")
 [![COBIT® 5 Foundation](https://images.credly.com/size/110x110/images/9e1bf845-1d7e-488b-abc9-3268b03cbff8/COBIT_5_-_Foundation_600px.png)](http://www.credly.com/badges/4c2d57fb-2d51-4b37-b39b-1e5d37086747 "COBIT® 5 Foundation")
 <!--END_SECTION:badges-->
+[![Azure DevOps](https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main)](https://learn.microsoft.com/en-us/users/julianosalszbrun/credentials/certification/devops-engineer?tab=credentials-tab "AzureDevops")
 
 </br>
 
