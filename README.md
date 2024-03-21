@@ -52,7 +52,7 @@ If you are interested, I publish that content on my YouTube channel "[Estação 
 <!--END_SECTION:badges-->
 
 <a href="https://learn.microsoft.com/en-us/users/julianosalszbrun/credentials/certification/devops-engineer?tab=credentials-tab"><img alt="AzureDevOps" src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="100px">
-<a href="https://learn.microsoft.com/en-us/users/julianosalszbrun/credentials/certification/azure-ai-engineer?tab=credentials-tab"><img alt="AI" src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/linkedin_thumb_image.png" width="200px">
+<a href="https://learn.microsoft.com/en-us/users/julianosalszbrun/credentials/certification/azure-ai-engineer?tab=credentials-tab"><img alt="AI" src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="104px">
 
 </br>
 
