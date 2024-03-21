@@ -51,8 +51,12 @@ If you are interested, I publish that content on my YouTube channel "[Estação 
 [![COBIT® 5 Foundation](https://images.credly.com/size/110x110/images/9e1bf845-1d7e-488b-abc9-3268b03cbff8/COBIT_5_-_Foundation_600px.png)](http://www.credly.com/badges/4c2d57fb-2d51-4b37-b39b-1e5d37086747 "COBIT® 5 Foundation")
 <!--END_SECTION:badges-->
 
-<a href="(https://learn.microsoft.com/en-us/users/julianosalszbrun/credentials/certification/devops-engineer?tab=credentials-tab)"><img alt="AzureDevOps" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" width="100px">
+<a href="https://learn.microsoft.com/en-us/users/julianosalszbrun/credentials/certification/devops-engineer?tab=credentials-tab"><img alt="AzureDevOps" src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="100px">
+<a href="https://learn.microsoft.com/en-us/users/julianosalszbrun/credentials/certification/azure-ai-engineer?tab=credentials-tab"><img alt="AI" src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/linkedin_thumb_image.png" width="200px">
+
 </br>
+
+
 
 ### 📺 Latest YouTube Videos
 
