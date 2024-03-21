@@ -3,7 +3,7 @@
 **`Digital Craftsman (Automator/Creator)`**
 
 I'm a Senior Infrastructure Engineer who uses DevOps principles to create and automate things, always reutilizing existing code. All projects are built from planning and designing all the way to solving real-life problems.
-If you are interested, I publish that content on my YouTube channel "[Estação da TI][youtube]".
+If you are interested, I publish that content on my YouTube channel "[Estação da TI][youtube]"!
 
 #
 
