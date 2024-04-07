@@ -42,6 +42,7 @@ If you are interested, I publish that content on my YouTube channel "[Estação 
 ### 🎓 Certifications
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](http://www.credly.com/badges/81232f1a-da18-4ff1-be9c-9dbaddbe1fc8 "AWS Knowledge: Amazon EKS")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/ffa10f6f-0653-488d-b31a-f74399aa677c "CKA: Certified Kubernetes Administrator")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/282bd9ef-b410-473b-ab35-91cdcc00fea3 "AWS Certified Cloud Practitioner")
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/3af8227d-09ab-4b32-bfef-d753fd2c93ff "HashiCorp Certified: Terraform Associate (002)")
