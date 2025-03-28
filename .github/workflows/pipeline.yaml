@@ -1,7 +1,8 @@
 name: GitHub Readme update
 on:
-  schedule:    
-    - cron: '0 2 * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
